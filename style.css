@@ -1,0 +1,62 @@
+#gl_image{
+height: 400px;
+width: 650px;
+}
+body{
+    background-color: lightcoral;
+}
+
+#vs_image{
+    height: 200px;
+    width: 200px;
+    margin-left: 40px;
+}
+
+#mobile_image{
+    height: 330px;
+    width: 550px;
+
+}  
+.ad{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    float: center;
+    background-color:#0abab5;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    padding-bottom: 545px;
+    padding-left: 20px;
+    padding-top: 5px;
+
+}
+
+
+.ol{
+   float: center;
+   margin-right: 35px;
+   margin-bottom: 30px;
+}
+
+.image{
+    border-radius: 5px;
+}
+
+#conclusion{
+    width: 60%;
+    height: 140px;
+    border: black;
+    box-shadow: 5px 3px 10px black;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 20px;
+    background-color: rgba(255, 0, 0, 0.541);
+    border-radius: 10px;
+    text-align: left;
+    padding-bottom: 3px;
+    padding-top: 10px;
+    padding-left: 6px;
+    margin-bottom: 40px;
+    float: center;
+
+}
